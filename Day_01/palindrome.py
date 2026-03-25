@@ -1,5 +1,7 @@
 # WAP to check if the number is palindrome or not.
 
+# Solved on LeetCode as well!
+
 n = input("Enter a number: ")
 isPalindrome = True
 l = len(n)
